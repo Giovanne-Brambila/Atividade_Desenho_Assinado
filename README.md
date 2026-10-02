@@ -22,6 +22,6 @@ Framework preset: `None`. Build command: vazio. Build output directory: `public`
 
 ## Identificação (preencha após o fork)
 
-Nome: 
-RA: 
-URL: https://
+Nome: Giovanne Antônio Brambila
+RA: 2026108362
+URL: https://atividade-desenho-assinado.pages.dev
